@@ -1,4 +1,4 @@
-<h2> Hey! My name Is Mark <img src="https://media.giphy.com/media/hSpbzYMalKjTS81Rlm/giphy.gif" width="50"></h2>
+<h2> Hey! My Name Is Mark <img src="https://media.giphy.com/media/hSpbzYMalKjTS81Rlm/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="230">
 <p><em>Software Engineer In The UK
 </em></p>
