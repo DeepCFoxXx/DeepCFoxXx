@@ -9,7 +9,7 @@
 const mark = {
   skills: ['Node.js', 'Javascript', 'SQL', 'AWS', 'Docker'],
   architecture: ['rest-apis', 'microservices', 'relational-databases'],
-  facvouriteQuote: 'Luminous beings we are, not this crude matter. -- Yoda',
+  favouriteQuote: 'Luminous beings we are, not this crude matter. -- Yoda',
 };
 ```
 
