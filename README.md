@@ -1,5 +1,3 @@
-# About Me
-
 <h2>Hey, My Name Is Kara
  <img src="https://media.giphy.com/media/hSpbzYMalKjTS81Rlm/giphy.gif" width="50">
 </h2>
