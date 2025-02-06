@@ -1,7 +1,6 @@
 <h2>Hey, My Name Is Kara
 
 </h2>
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXBoMmx0aXphbWw3d3c5cTY1dXNzMDJlamJydXBzYzY4bzdhZ3lwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="230" height="163" style="margin-top: 117px;">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJnZ3Uyd3dtMWo2MTA3NjZmbTZiNGxuMTQ5NW96MWFvbXMwNmQ5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2wh8AaMZ2jtRseDQ3C/giphy.gif" width="50" height="40" >
 
 <p>
